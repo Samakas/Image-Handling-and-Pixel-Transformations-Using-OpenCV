@@ -35,7 +35,8 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 - **Register Number:** [Your Register Number Here]
 
   ### Ex. No. 01
-
+  ### Name: Samakash R S
+  ### Reg No: 212223230182
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```python
 import cv2
@@ -230,7 +231,7 @@ plt.show()
 
   5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
-  ![alt text](<img-6 .png>)
+  ![alt text](img-6.png)
 
 - ### **ii)** Adjust Image Brightness.
 
