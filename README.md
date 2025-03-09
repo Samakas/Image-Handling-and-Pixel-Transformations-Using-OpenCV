@@ -221,7 +221,7 @@ plt.show()
 
   3.Cropped image:
 
-  ![alt text](<img-3.png>)
+  ![alt text](<cropped eagle.png>)
 
   4.Resize and flip Horizontally:
 
