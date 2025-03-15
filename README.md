@@ -77,7 +77,7 @@ img.shape
 
 #### 7. Crop the image to extract any specific (Eagle alone) object from the image.
 ```python
-cr = img_rgb[50:425,200:550] 
+cr = img_rgb[20:430,200:600] 
 plt.imshow(cr)
 plt.title("Cropped Region")
 plt.axis("off")
@@ -221,7 +221,8 @@ plt.show()
 
   3.Cropped image:
 
-  ![alt text](<img-3.png>)
+  ![Screenshot 2025-03-15 141945](https://github.com/user-attachments/assets/98c48e26-ede7-4e77-8685-cd7b1cf93b74)
+
 
   4.Resize and flip Horizontally:
 
