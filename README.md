@@ -221,12 +221,7 @@ plt.show()
 
   3.Cropped image:
 
-<<<<<<< HEAD
-  ![alt text](<cropped eagle.png>)
-=======
   ![Screenshot 2025-03-15 141945](https://github.com/user-attachments/assets/98c48e26-ede7-4e77-8685-cd7b1cf93b74)
-
->>>>>>> 13a84b2bb23a8dfce5bdb163d36b83d029cff767
 
   4.Resize and flip Horizontally:
 
