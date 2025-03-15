@@ -77,7 +77,7 @@ img.shape
 
 #### 7. Crop the image to extract any specific (Eagle alone) object from the image.
 ```python
-cr = img_rgb[50:425,200:550] 
+cr = img_rgb[20:430,200:600] 
 plt.imshow(cr)
 plt.title("Cropped Region")
 plt.axis("off")
@@ -221,11 +221,17 @@ plt.show()
 
   3.Cropped image:
 
+<<<<<<< HEAD
   ![alt text](<cropped eagle.png>)
+=======
+  ![Screenshot 2025-03-15 141945](https://github.com/user-attachments/assets/98c48e26-ede7-4e77-8685-cd7b1cf93b74)
+
+>>>>>>> 13a84b2bb23a8dfce5bdb163d36b83d029cff767
 
   4.Resize and flip Horizontally:
 
-  ![alt text](<img-4.png>)
+  ![Screenshot 2025-03-15 142603](https://github.com/user-attachments/assets/f4e82eb5-bc57-4dd5-9946-e6fdcf84e6bc)
+
 
   5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
